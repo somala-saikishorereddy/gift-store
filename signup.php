@@ -12,7 +12,7 @@ $username=$_POST['username'];
 $password=$_POST['password'];
 $usercheck=$username;
 //connect to the server and select the database
-$db=mysqli_connect("localhost","root","","homdec");
+$db=mysqli_connect("localhost","root","","giftstore");
 //query
 $usercheck="SELECT * FROM signup where username= '$username'";
 $result=mysqli_query($db,$usercheck);
