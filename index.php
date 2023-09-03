@@ -189,7 +189,7 @@ session_start();
           <div class="col s12 m12 l3">
             <div class="card anime-start-2" data-as="true"  data-as-animation="anime-end-2">
               <div class="card-image waves-effect waves-block waves-light">
-                <img  src="https://cdn.shopify.com/s/files/1/0565/1064/4324/products/soft-tpu-protective-inner-microfiber-cloth-back-case-for-iphone-cases-covers-30106799308900.jpg?v=1670323911">
+                <img  src="https://ktusu.in/cdn/shop/files/soft-tpu-protective-inner-microfiber-cloth-phone-back-case-cover-for-apple-iphone-cases-covers-30219788091492.jpg?v=1690481854">
               </div>
               <a href="category2.php">
                 <div class="card-action center-align black white-text flow-text">
@@ -201,7 +201,7 @@ session_start();
           <div class="col s12 m12 l3">
             <div class="card anime-start-3" data-as="true"  data-as-animation="anime-end-3">
               <div class="card-image waves-effect waves-block waves-light">
-                <img  src="https://th.bing.com/th/id/R.fd027258a2065cbd114d487e07c9fe7a?rik=4dPv0379KNHvhw&riu=http%3a%2f%2fa1128.g.akamai.net%2f7%2f1128%2f497%2f0001%2fimage.proflowers.com%2fis%2fimage%2fProvideCommerce%2fPCR12_00000001125X_0023117_W1_SQ&ehk=iyX0WNx5sEEwpeSKdi7WTGmJP%2bnAAof6HS7KLbTS0YA%3d&risl=&pid=ImgRaw&r=0">
+                <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSliZPH_BZXxRFOLZhDkOivDQKY3rIY4upd0cKp-vnZI8YVJ_603NlQHT61lKQLFCSh9CA&usqp=CAU">
               </div>
               <a href="category1.php">
                 <div class="card-action center-align black white-text flow-text">
