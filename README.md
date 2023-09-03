@@ -29,9 +29,8 @@ To run this website on your machine you need to install anyone server such as WA
 ![front page](ScreenShots/cart.PNG)</br></br>
 6)Checkout:</br></br>
 ![front page](ScreenShots/checkout.PNG)</br></br>
-7)Order Details:**</br></br>
-![front page](ScreenShots/order.PNG)</br></br>
+
 ## Authors
-- [Sayali Pawar](https://github.com/sayaliipawar)
+- [Somala SaiKishore Reddy](https://github.com/somala-saikishorereddy)
 
 
