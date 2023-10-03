@@ -260,7 +260,7 @@ session_start();
           <div class="col s12 m12 l3">
             <div class="card anime-start-3" data-as="true"  data-as-animation="anime-end-3">
               <div class="card-image waves-effect waves-block waves-light">
-                <img  src="https://th.bing.com/th/id/R.091e5309fe608e621a9cd6bab57d63a2?rik=4gXm96ZYVU31Jg&riu=http%3a%2f%2fwww.amerrymishapblog.com%2fwp-content%2fuploads%2f2020%2f12%2fil_1140xN.2605828371_mdr1.jpg&ehk=ok9Tgn0qKT24KiX7EYEu%2bdRoo6%2fnKp3NDNoNYylRqK4%3d&risl=&pid=ImgRaw&r=0">
+                <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnH3W7JvSHqYfZKhXUSJZYVH48xg8voSrhUA&usqp=CAU">
               </div>
               <a href="category5.php">
                 <div class="card-action center-align black white-text flow-text">
